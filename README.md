@@ -1,4 +1,5 @@
 read me file test
 
 
-![banner](https://github.com/Magomin/FriblLinkedinScraper/assets/167082719/76ba41e4-300d-4a46-aba5-3e37ee3fabff)
+![banner](https://github.com/Magomin/FriblLinkedinScraper/assets/167082719/52eb0eac-035f-46cc-a674-365f9f389ff7)
+
