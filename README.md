@@ -1,7 +1,7 @@
 # Fribl Linkedin Scraper
 
+<img src="https://github.com/Magomin/FriblLinkedinScraper/assets/banner.png" align="center" alt="logo Fribl Scraper" width="120" height="128">
 
-![banner](https://github.com/Magomin/FriblLinkedinScraper/assets/167082719/52eb0eac-035f-46cc-a674-365f9f389ff7)
 
 ## Description
 
@@ -14,6 +14,4 @@ This repository contains a script designed to scrape public information from Lin
 - **Learning Experience:** This project has been a valuable learning experience, involving web scraping techniques, threading for efficient data retrieval, and creating a user-friendly script. While it's a good starting point, there is room for ongoing improvement.
 
 
-## Description
 
-Building a scraper that could
