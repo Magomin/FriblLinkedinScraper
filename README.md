@@ -1,7 +1,7 @@
 # Fribl Linkedin Scraper
-
-<img src="https://github.com/Magomin/FriblLinkedinScraper/assets/banner.png" align="center" alt="logo Fribl Scraper" width="120" height="128">
-
+<h3 align="center">
+<img src="assets/banner.png" alt="logo Fribl Scraper" width="1200" height="200"><br/>
+</h3>
 
 ## Description
 
