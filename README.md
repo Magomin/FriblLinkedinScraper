@@ -136,7 +136,7 @@ pip install BeautifulSoup==4.12.3
 ```
 
 
-|
+___
 
 # Scraping breakdown
 
