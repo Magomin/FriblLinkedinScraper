@@ -2,7 +2,6 @@
 <h3 align="center">
 <img src="assets/banner.png" alt="logo Fribl Scraper" width="1200" height="200"><br/>
 </h3>
-Packages
 
 <p align="center">
 <a href= "https://pypi.org/project/selenium-stealth/"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/Selenium-stealth?style=for-the-badge&logo=selenium&label=Selenium-Stealth%201.0.6">
