@@ -3,8 +3,11 @@
 <img src="assets/banner.png" alt="logo Fribl Scraper" width="1200" height="200"><br/>
 </h3>
 Packages
+
+<p align="center">
 <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/Selenium-stealth?style=for-the-badge&logo=selenium&label=Selenium-Stealth%201.0.6">
 <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/beautifulSoup?style=for-the-badge&label=BeautifulSoup%204.12.3&color=violet&link=https%3A%2F%2Fpypi.org%2Fproject%2Fbeautifulsoup4%2F">
+</p>
 ## Description
 
 This repository contains a script designed to scrape public information from LinkedIn profiles. The motivation behind this project is to enhance Fribl's database and improve their AI capabilities.
