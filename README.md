@@ -6,7 +6,7 @@ Packages
 
 <p align="center">
 <a href= "https://pypi.org/project/selenium-stealth/"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/Selenium-stealth?style=for-the-badge&logo=selenium&label=Selenium-Stealth%201.0.6">
-<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/beautifulSoup?style=for-the-badge&label=BeautifulSoup%204.12.3&color=violet&link=https%3A%2F%2Fpypi.org%2Fproject%2Fbeautifulsoup4%2F">
+<a href= "https://pypi.org/project/beautifulsoup4/"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/beautifulSoup?style=for-the-badge&label=BeautifulSoup%204.12.3&color=violet&link=https%3A%2F%2Fpypi.org%2Fproject%2Fbeautifulsoup4%2F">
 </p>
 
 ## Description
