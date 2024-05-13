@@ -157,7 +157,7 @@ def login_to_linkedin(accounts, use_proxy=True, proxies=None):
     if selected_account in cookies_dict:
         # Load cookies for the account
         cookies = cookies_dict[selected_account]
-        driver.get("https://www.linkedin.com")
+        driver.get("https://www.linkedin.com/login")
         driver.add_cookie(cookies)
         return driver
 
