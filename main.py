@@ -82,7 +82,7 @@ Possible Improvement--------
 
 #General Variables
 
-accounts = {"dominguez.matthieu.b@gmail.com": "Stagefribl2024","matfribl@outlook.com": "Stagefribl2024","capitaineolimar@outlook.com":"Stagefribl2024",} # {"username1":"password1"}, add more profiles as needed
+accounts = {"dominguez.matthieu.b@gmail.com": "*****","matfribl@outlook.com": "*******","capitaineolimar@outlook.com":"********",} # {"username1":"password1"}, add more profiles as needed
 used_accounts = []
 proxies = ["proxy1","proxy2", "proxy3"] # Replace with your list of proxies
 selecting_profil = []
